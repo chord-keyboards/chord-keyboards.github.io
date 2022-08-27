@@ -1174,7 +1174,24 @@ export function getKeycodes() {
         {name: "W-", code: "STN_WL"},
         {name: "H-", code: "STN_HL"},
         {name: "R-", code: "STN_RL"},
-        {name: "A", code: "KC_A", keys: "a"}
+        {name: "A", code: "STN_A"},
+        {name: "O", code: "STN_O"},
+        {name: "✱", code: "STN_ST1"},
+        {name: "＊", code: "STN_ST2"},
+        {name: "✱", code: "STN_ST3"},
+        {name: "⁕", code: "STN_ST4"},
+        {name: "E", code: "STN_E"},
+        {name: "U", code: "STN_U"},
+        {name: "-F", code: "STN_FR"},
+        {name: "-R", code: "STN_RR"},
+        {name: "-P", code: "STN_PR"},
+        {name: "-B", code: "STN_BR"},
+        {name: "-L", code: "STN_LR"},
+        {name: "-G", code: "STN_GR"},
+        {name: "-T", code: "STN_TR"},
+        {name: "-S", code: "STN_SR"},
+        {name: "-D", code: "STN_DR"},
+        {name: "-Z", code: "STN_ZR"}
       ]
     },
     {
